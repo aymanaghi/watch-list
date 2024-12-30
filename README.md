@@ -1,5 +1,4 @@
 # watch-list
-Watch list:
 Citzen kane
 Civil war
 Kinds of kindness
